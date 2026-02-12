@@ -1,2 +1,2 @@
-// Changes code
+# Changes code
 int = int(input)
